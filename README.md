@@ -30,6 +30,8 @@ Formal logic · Type theory · Homotopy type theory · Category theory · Proof 
 
 6th semester CS student. Studying backend systems and infrastructure design.
 
+Learning Go .
+
 <!--
 **samem26/samem26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
