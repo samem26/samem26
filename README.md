@@ -1,6 +1,6 @@
 # Samuel Emad 
 
-**Learning Backend Engineering · CS @ Nahda University**
+**Learning Backend Engineering · 3rd Year CS Student**
 
 ---
 
