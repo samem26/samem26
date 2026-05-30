@@ -4,9 +4,9 @@
 
 ---
 
-Former physics student at Moscow State University. Moved to Computer Science.
+**Systems Software** — platform engineering, infrastructure, compilers, language runtimes, developer tooling, foundational systems.
 
-Building toward backend and infrastructure engineering: systems design, API architecture, and orchestration. Interested in systems architecture rather than application-layer assembly.
+**Theoretical Foundations** — formal logic, type theory, homotopy type theory, category theory, proof assistants (Lean), theoretical physics.
 
 ---
 
@@ -14,7 +14,7 @@ Building toward backend and infrastructure engineering: systems design, API arch
 
 **Languages:** C · C++ · C# · Python · Haskell (surface level)  
 **Frameworks:** ASP.NET Core  
-**Databases:** MySQL · PostgreSQL · SQL Server
+**Databases:** PostgreSQL · SQL Server
 
 ---
 
@@ -31,6 +31,8 @@ Formal logic · Type theory · Homotopy type theory · Category theory · Proof 
 6th semester CS student. Studying backend systems and infrastructure design.
 
 Learning Go .
+
+Reading sql Anitpatterns by Bill Karwin  . 
 
 <!--
 **samem26/samem26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
