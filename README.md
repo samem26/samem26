@@ -1,5 +1,5 @@
 # Samuel Emad
-**Learning Backend Engineering · 3rd Year CS Student**
+**Learning Backend Engineering · 4th Year CS Student**
 
 ---
 
@@ -25,7 +25,7 @@ Building toward backend and infrastructure engineering: systems design, API arch
 ---
 
 ## Currently
-6th semester CS student. Studying backend systems and infrastructure design.
+7th semester CS student. Studying backend systems and infrastructure design.
 
 Learning Go.
 
