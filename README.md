@@ -29,7 +29,6 @@ Building toward backend and infrastructure engineering: systems design, API arch
 
 Learning Go.
 
-Reading *SQL Antipatterns* by Bill Karwin.
 
 <!--
 **samem26/samem26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
