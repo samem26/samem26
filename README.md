@@ -14,7 +14,7 @@ My broader interests extend to systems programming, programming languages, and t
 ## Technical Stack
 
 **Languages:** C# · C · C++ · Python · Haskell (basic familiarity)  
-**Backend:** .NET · ASP.NET Core · Entity Framework Core  
+**Backend:** .NET · ASP.NET Core  
 **Relational Databases:** PostgreSQL · SQL Server  
 **Analytical Databases & Warehousing:** ClickHouse · Amazon Redshift (introductory)  
 **Object Storage:** S3-compatible storage (SILO)  
