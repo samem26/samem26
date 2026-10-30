@@ -1,8 +1,8 @@
-# Samuel Emad
+Samuel Emad
 
-**Computer Science Student · Backend Engineering · Systems Software**
+Computer Science Student · Backend Engineering · Systems Software
 
-## About
+About
 
 Fourth-year Computer Science student and former physics student at Moscow State University.
 
@@ -10,32 +10,32 @@ Focused on backend engineering, software architecture, and infrastructure, with 
 
 My broader interests extend to systems programming, programming languages, and the mathematical and theoretical foundations of computing.
 
-## Technical Stack
+Technical Stack
 
-**Languages:** C# · C · C++ · Python  
-**Backend:** .NET · ASP.NET Core · Entity Framework Core  
-**Relational Databases:** PostgreSQL · SQL Server  
-**Analytical Databases & Warehousing:** ClickHouse · Amazon Redshift (introductory)  
-**Object Storage:** S3-compatible storage (SILO)  
-**Cloud:** AWS  
-**Currently Learning:** Go · Rust
+Languages: C# · C · C++ · Python · Haskell (basic familiarity)
+Backend: .NET · ASP.NET Core · Entity Framework Core
+Relational Databases: PostgreSQL · SQL Server
+Analytical Databases & Warehousing: ClickHouse · Amazon Redshift (introductory)
+Object Storage: S3-compatible storage (SILO)
+Cloud: AWS
+Currently Learning: Go · Rust
 
-## Education & Training
+Education & Training
 
-- **Computer Science** — Fourth-year undergraduate student.
-- **Moscow State University** — Former physics student.
-- **National Telecommunication Institute (NTI) / ITIDA** — Cloud Architect Summer Training, 2026. Completed 120 hours of training in cloud architecture and infrastructure.
-- **AWS Academy** — Completed Cloud Foundations (20 hours) and Cloud Architecting (60 hours), earning training completion badges.
+- Computer Science — Fourth-year undergraduate student.
+- Moscow State University — Former physics student.
+- National Telecommunication Institute (NTI) / ITIDA — Cloud Architect Summer Training, 2026. Completed 120 hours of training in cloud architecture and infrastructure.
+- AWS Academy — Completed Cloud Foundations (20 hours) and Cloud Architecting (60 hours), earning training completion badges.
 
-## Technical Interests
+Technical Interests
 
-**Backend & Systems Software**  
+Backend & Systems Software
 Software architecture, API design, infrastructure, compilers, and language runtimes.
 
-**Theoretical Computer Science**  
+Theoretical Computer Science
 Formal logic, type theory, category theory, homotopy type theory, formal verification, and proof assistants (Lean).
 
-## Philosophical Interests
+Philosophical Interests
 
 Epistemology, metaphysics, and introductory philosophy of language and mind.
 
